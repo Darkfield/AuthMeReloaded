@@ -136,7 +136,7 @@ settings:
         # should be kicked. Set to 0 to disable.
         timeout: 30
         # Regex sintax for allowed Char in player name.
-        allowedNicknameCharacters: '[a-zA-Z0-9_?]*'
+        allowedNicknameCharacters: '[a-zA-Z0-9_]*'
         # How far can unregistered players walk? Set to 0
         # for unlimited radius
         allowedMovementRadius: 100
